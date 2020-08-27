@@ -1,0 +1,12 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q1-q10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon q11-q20"
+  },
+  "author": "",
+  "license": "ISC"
+}
